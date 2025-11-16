@@ -1,102 +1,97 @@
 # 3-column-responsive-layout-using-flexbox-or-grid
-Modern Layout Systems Showcase
+# Modern Layout Systems Showcase
 
 A professional, interactive demonstration of CSS Flexbox and Grid layout systems with responsive design principles.
 
-https://img.shields.io/badge/Layout-Flexbox%20%26%20Grid-blue
-https://img.shields.io/badge/Design-Responsive-green
-https://img.shields.io/badge/License-MIT-lightgrey
+![Layout Systems](https://img.shields.io/badge/Layout-Flexbox%20%26%20Grid-blue)
+![Responsive](https://img.shields.io/badge/Design-Responsive-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-View Live Project
+**[View Live Project](https://ironlegend01.github.io/3-column-responsive-layout-using-flexbox-or-grid/)**
 
-📋 Table of Contents
+## 📋 Table of Contents
 
-· Overview
-· Features
-· Technologies Used
-· Project Structure
-· Installation
-· Usage
-· Layout Systems
-· Browser Support
-· Contributing
-· License
-· Author
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Layout Systems](#layout-systems)
+- [Browser Support](#browser-support)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
 
-📖 Overview
+## 📖 Overview
 
-This project showcases two modern CSS layout systems - Flexbox and CSS Grid - through an interactive, professional web interface. It demonstrates how both technologies can be used to create responsive, maintainable layouts while highlighting their unique strengths and use cases.
+This project showcases two modern CSS layout systems - **Flexbox** and **CSS Grid** - through an interactive, professional web interface. It demonstrates how both technologies can be used to create responsive, maintainable layouts while highlighting their unique strengths and use cases.
 
-✨ Features
+## ✨ Features
 
-🎨 Design Features
+### 🎨 Design Features
+- **Modern UI/UX** - Clean, professional design with subtle animations
+- **Interactive Toggle** - Switch between Flexbox and Grid implementations
+- **Responsive Design** - Fully responsive across all device sizes
+- **Code Preview** - Syntax-highlighted code examples with copy functionality
+- **Smooth Animations** - CSS transitions and keyframe animations
+- **Professional Typography** - Inter font family with proper hierarchy
 
-· Modern UI/UX - Clean, professional design with subtle animations
-· Interactive Toggle - Switch between Flexbox and Grid implementations
-· Responsive Design - Fully responsive across all device sizes
-· Code Preview - Syntax-highlighted code examples with copy functionality
-· Smooth Animations - CSS transitions and keyframe animations
-· Professional Typography - Inter font family with proper hierarchy
+### 🔧 Technical Features
+- **Flexbox Implementation** - Demonstrates one-dimensional layout capabilities
+- **CSS Grid Implementation** - Shows two-dimensional layout power
+- **Modern CSS** - CSS Variables, Grid, Flexbox, and advanced selectors
+- **Accessible Design** - Proper semantic HTML and ARIA labels
+- **Performance Optimized** - Efficient CSS and minimal JavaScript
 
-🔧 Technical Features
+## 🛠 Technologies Used
 
-· Flexbox Implementation - Demonstrates one-dimensional layout capabilities
-· CSS Grid Implementation - Shows two-dimensional layout power
-· Modern CSS - CSS Variables, Grid, Flexbox, and advanced selectors
-· Accessible Design - Proper semantic HTML and ARIA labels
-· Performance Optimized - Efficient CSS and minimal JavaScript
+### Core Technologies
+- **HTML5** - Semantic markup and modern elements
+- **CSS3** - Custom properties, Grid, Flexbox, animations
+- **JavaScript (ES6+)** - Interactive functionality
 
-🛠 Technologies Used
+### Libraries & Tools
+- **Font Awesome** - Icon library for UI elements
+- **Google Fonts** - Inter and JetBrains Mono typography
+- **CSS Custom Properties** - Consistent design system
 
-Core Technologies
-
-· HTML5 - Semantic markup and modern elements
-· CSS3 - Custom properties, Grid, Flexbox, animations
-· JavaScript (ES6+) - Interactive functionality
-
-Libraries & Tools
-
-· Font Awesome - Icon library for UI elements
-· Google Fonts - Inter and JetBrains Mono typography
-· CSS Custom Properties - Consistent design system
-
-📁 Project Structure
+## 📁 Project Structure
 
 ```
+
 modern-layout-systems/
 │
-├── index.html              # Main HTML file
-├── README.md               # Project documentation
-├── assets/                 # Static assets (optional)
-│   ├── images/            # Screenshots and graphics
-│   └── fonts/             # Custom fonts (if any)
-└── LICENSE                # MIT License file
+├──index.html              # Main HTML file
+├──README.md               # Project documentation
+├──assets/                 # Static assets (optional)
+│├── images/            # Screenshots and graphics
+│└── fonts/             # Custom fonts (if any)
+└──LICENSE                # MIT License file
+
 ```
 
-🚀 Installation
+## 🚀 Installation
 
-Option 1: Direct Usage
-
-1. Download the index.html file
+### Option 1: Direct Usage
+1. Download the `index.html` file
 2. Open it directly in any modern web browser
 3. No build process or dependencies required
 
-Option 2: GitHub Pages
-
+### Option 2: GitHub Pages
 1. Fork this repository
 2. Enable GitHub Pages in your repository settings
-3. Access via https://your-username.github.io/repository-name
+3. Access via `https://your-username.github.io/repository-name`
 
-Option 3: Local Development
-
+### Option 3: Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/modern-layout-systems.git
+git clone https://github.com/ironlegend01/3-column-responsive-layout-using-flexbox-or-grid.git
 
 # Navigate to project directory
-cd modern-layout-systems
+cd 3-column-responsive-layout-using-flexbox-or-grid
 
 # Open in browser
 open index.html
@@ -117,6 +112,11 @@ Interactive Features
 3. Responsive Testing
    · Resize your browser window to see responsive behavior
    · Test on mobile devices or use browser developer tools
+
+Quick Links
+
+· Live Demo - View the project in action
+· Source Code - Explore the code on GitHub
 
 Learning Resources
 
@@ -205,9 +205,9 @@ Divyansh Raj
 
 · 🎓 B.Tech Computer Science & Engineering
 · 🏫 CGC University, Mohali
-· 📧 Email: your-email@example.com
+· 📧 Email: lakshmisah22@gmail.com
 · 💼 LinkedIn: Divyansh Raj
-· 🐙 GitHub: @your-username
+· 🐙 GitHub: @ironlegend01
 
 🙏 Acknowledgments
 
@@ -225,6 +225,26 @@ Divyansh Raj
 
 If you find this project helpful, please consider giving it a star on GitHub!
 
+View Live Demo | Source Code
+
 "Good design is obvious. Great design is transparent." - Joe Sparano
 
 </div>
+```
+
+Key Changes Made:
+
+HTML File:
+
+1. Added Project Links Section - Prominent buttons for Live Demo and Source Code
+2. Updated Footer Links - Added direct link to the live demo
+3. Enhanced Styling - Added CSS for project link buttons with hover effects
+4. Improved Responsiveness - Better mobile layout for the new buttons
+
+README.md File:
+
+1. Updated Live Demo Link - Added your specific GitHub Pages URL
+2. Added Quick Links Section - Easy access to demo and source code
+3. Updated Author Information - Added your actual contact details
+4. Enhanced Footer Section - Added direct links in the center section
+5.
